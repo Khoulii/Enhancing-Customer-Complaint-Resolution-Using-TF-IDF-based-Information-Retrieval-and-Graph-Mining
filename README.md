@@ -34,9 +34,9 @@ The output of the project includes:
 - The top 5 most similar documents based on the user query and their cosine similarity scores.
 - Directed and weighted graph visualizations that illustrate the relationships between terms and the structure of similar complaints.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/309e2326-2d0e-4f65-9554-c7225d5a98fb" width="400">
-  <img src="https://github.com/user-attachments/assets/e81fbc94-fa32-4968-9d63-953a6d84ecac" width="400">
+  <img src="https://github.com/user-attachments/assets/309e2326-2d0e-4f65-9554-c7225d5a98fb" width="600">
+  <img src="https://github.com/user-attachments/assets/e81fbc94-fa32-4968-9d63-953a6d84ecac" width="600">
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8a96cd9-5efa-4cb3-94f5-f08bca4c5fe0" width="600">
+  <img src="https://github.com/user-attachments/assets/f8a96cd9-5efa-4cb3-94f5-f08bca4c5fe0" width="800">
 </p>
