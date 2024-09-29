@@ -36,5 +36,7 @@ The output of the project includes:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/309e2326-2d0e-4f65-9554-c7225d5a98fb" width="400">
   <img src="https://github.com/user-attachments/assets/e81fbc94-fa32-4968-9d63-953a6d84ecac" width="400">
-  <img src="https://github.com/user-attachments/assets/f8a96cd9-5efa-4cb3-94f5-f08bca4c5fe0" width="400">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8a96cd9-5efa-4cb3-94f5-f08bca4c5fe0" width="600">
 </p>
